@@ -1,3 +1,4 @@
+src文件夹：程序源码文件夹
 README：使用前必读说明文件
 INSTALL：配置、编译和安装该项目的说明信息
 CREDITS：本项目所有贡献者的列表
@@ -7,4 +8,3 @@ COPYING：指出本项目采用的许可证条款（通常采用GNU GPL）
 LICENS：本项目的许可证条款文件
 MANIFEST：本项目的所有文件列表
 FAQ：关于本项目的纯文本格式的常见问题解答
-TAGS：为Emacs或vi准备的tag标记文件
