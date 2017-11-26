@@ -46,7 +46,7 @@ python webcrawler.py
 
 ### [HISTORY：](https://github.com/Beants/F-drdid_webcrawler/blob/master/HISTORY.md)
 
-### 历史发展演变记录
+#### 历史发展演变记录
 * 10-11月份：完成项目的初级编写工作，完成如下功能：
     * 建立文件夹，在文件夹中切换
 		* 获取主页的url并翻页
