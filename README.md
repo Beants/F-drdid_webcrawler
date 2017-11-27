@@ -9,12 +9,11 @@
 
 ### INSTALL：
 [点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/INSTALL.md)
-#### 运行
-在终端中键入如下命令：
-
-```
-python webcrawler.py
-```
+### 电脑要求：
+* 装有python环境
+* 将程序下载到工作目录
+* 在终端（Mac中的说法）中进入工作目录
+* 键入如下命令 ```python webcrawler.py```
 
 #### 注意
 * 文件目录结构
