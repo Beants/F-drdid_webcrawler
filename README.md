@@ -33,32 +33,13 @@ python webcrawler.py
 ### NEWS：
 [点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/NEWS.md)
 
-#### 10-11月完成如下工作：
 
-* 建立文件夹，在文件夹中切换
-* 获取主页的url并翻页
-* 获取主页html，并分析出app介绍页的url
-* 获取app的名字 id 包名
-* 获取app的版本号
-* 获取每一个app版本的apk文件，签名文件，并保存到对应文件夹
-* 获取Github的克隆地址并克隆到对应文件夹
 
 ### HISTORY：
 [点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/HISTORY.md)
 
-* 10-11月份：完成项目的初级编写工作，完成如下功能：
-  * 建立文件夹，在文件夹中切换
-  * 获取主页的url并翻页
-  * 获取主页html，并分析出app介绍页的url
-  * 获取app的名字 id 包名
-  * 获取app的版本号
-  * 获取每一个app版本的apk文件，签名文件，并保存到对应文件夹
-  * 获取Github的克隆地址并克隆到对应文件夹
-
-* 接下来需要完善的工作：
-  * 完善源代码的克隆
-  * 优化下载速度
-  * 采用多线程
+### TODO：
+[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/HISTORY.md)
 
 ### COPYING：
 [点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/COPYING.md)
@@ -73,21 +54,11 @@ Copyright (C) 2007 Free Software Foundation, Inc.
 ### LICENSE：
 [点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/LICENSE.md)
 
-* 详见文档
+
 
 ### MANIFEST：
 [点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/MANIFEST)
 
-* 文件列表详见文件
 
 ### FAQ：
 [点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/FAQ.md)
-
-1. 问： 程序怎么运行？
-答： 查看Install.md文件
-
-2. 问： 程序生成的文件目录结构是怎样的？
-答： 查看Install.md文件
-
-3. 问：怎么提交Bug？
-答： 给贡献者发送邮件
