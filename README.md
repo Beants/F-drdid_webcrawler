@@ -8,7 +8,7 @@
 
 
 ### INSTALL：
-[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/INSTALL.md)
+[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/docs/INSTALL.md)
 ### 电脑要求：
 * 装有python环境
 * 将程序下载到工作目录
@@ -22,7 +22,7 @@
   * **文件夹**（以版本号命名）-> **apk文件** 和 **签名文件**
 
 ### CREDITS：
-[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/CREDITS.md)
+[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/docs/CREDITS.md)
 
 
 * Name:Andersen Mail:beantsxu@gmail.com
@@ -30,18 +30,18 @@
 
 
 ### NEWS：
-[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/NEWS.md)
+[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/docs/NEWS.md)
 
 
 
 ### HISTORY：
-[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/HISTORY.md)
+[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/docs/HISTORY.md)
 
 ### TODO：
-[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/HISTORY.md)
+[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/docs/HISTORY.md)
 
 ### COPYING：
-[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/COPYING.md)
+[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/docs/COPYING.md)
 ```
 GNU GENERAL PUBLIC LICENSE
 
@@ -51,13 +51,13 @@ Copyright (C) 2007 Free Software Foundation, Inc.
 ```
 
 ### LICENSE：
-[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/LICENSE.md)
+[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/docs/LICENSE.md)
 
 
 
 ### MANIFEST：
-[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/MANIFEST)
+[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/docs/MANIFEST)
 
 
 ### FAQ：
-[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/FAQ.md)
+[点此打开文件](https://github.com/Beants/F-drdid_webcrawler/blob/master/docs/FAQ.md)
